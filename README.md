@@ -1,6 +1,10 @@
 # multiframe
 
 1. Springboot with security using oauth2 (web tokens) or OKTA Provider or PingID fed module
+```
+  Spring Profiles
+  Saving / persisting client secrets or passwords into Azure KeyVault
+```
 2. Messaging server (using kafka with server & client)
 ```
   We can spring integration concepts using 
@@ -34,4 +38,5 @@ Use only JUNIT5
   Dockerize the application
   Try to use test cluster or AKS Services for using application
   Application can be deployed on Heroku
+  Terraforms for deploying applications into Azure
 ```
